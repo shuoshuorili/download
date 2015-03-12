@@ -1,12 +1,12 @@
 {
     "results": [
         {
-            "version": "1.2.1 (正式版)",
+            "version": "1.2.1 - 正式版",
             "filename": "TalkCal.apk",
             "notes": "- 日程信息分享"
         },
         {
-            "version": "1.2.2 (尝鲜版)",
+            "version": "1.2.2 - 尝鲜版",
             "filename": "TalkCal_122_photo_map.apk",
             "notes": "- 日历附件分享\n-日历地点编辑"
         }
