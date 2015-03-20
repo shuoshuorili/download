@@ -2,8 +2,8 @@
     "resultCount": 1,
     "results": [
         {
-            "version": "1.2.5",
-            "releaseNotes": "- 主界面已变更\n- 修复已知bug，提高稳定性\n",
+            "version": "1.2.6",
+            "releaseNotes": "- 卡片列表型主界面\n- 修正语音输入模式切换逻辑\n",
             "trackCensoredName": "说说日历"
         }
     ]
