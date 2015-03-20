@@ -2,8 +2,8 @@
     "resultCount": 1,
     "results": [
         {
-            "version": "1.2.3",
-            "releaseNotes": "- 暂时移除教教如意\n- 修复已知bug，提高稳定性\n",
+            "version": "1.2.5",
+            "releaseNotes": "- 主界面已变更\n- 修复已知bug，提高稳定性\n",
             "trackCensoredName": "说说日历"
         }
     ]
