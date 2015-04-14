@@ -2,8 +2,8 @@
     "resultCount": 1,
     "results": [
         {
-            "version": "1.2.6",
-            "releaseNotes": "- 卡片列表型主界面\n- 修正语音输入模式切换逻辑\n",
+            "version": "1.2.7",
+            "releaseNotes": "- 日程列表有所变更；\n- 加入了航班识别、地图及动态提醒。\n",
             "trackCensoredName": "说说日历"
         }
     ]
