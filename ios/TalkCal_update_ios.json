@@ -2,8 +2,8 @@
     "resultCount": 1,
     "results": [
         {
-            "version": "1.2.7",
-            "releaseNotes": "- 日程列表有所变更；\n- 加入了航班识别、地图及动态提醒。\n",
+            "version": "1.2.8",
+            "releaseNotes": "- 加入航班识别、地点识别及更丰富的识别方式。",
             "trackCensoredName": "说说日历"
         }
     ]
